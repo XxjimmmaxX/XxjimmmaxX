@@ -2,7 +2,7 @@
 <center>### I will try lots of new languages and also .<br></center>
 <center>## Spend time learning these languages.<br><center>
 
-<center>**##My Github Stats:##** </center>
+<center>##My Github Stats:##</center>
 ![jimmma's github stats](https://github-readme-stats.vercel.app/api?username=XxjimmmaxX&show_icons=true&theme=dracula&hide=stars,issues)
 
 **Visitor Count:** 
